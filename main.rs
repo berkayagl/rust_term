@@ -45,7 +45,8 @@ fn help() {
     println!("Kullanılabilir komutlar:");
      println!("ls - Belirtilen dizindeki dosya ve dizinleri listeler.");
      println!("ls -l - Dosya izinleri ile birlikte dosya ve dizinleri listeler (uzun form).");
-
+println!("cat - Dosyaları okur.");
+println!("clear - Terminali temizler.");
 }
 
 fn clear() {
